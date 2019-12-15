@@ -10,8 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            string Master = "Fock Off";
-            Console.WriteLine("Hello World! " + Master);
+            Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
     }
