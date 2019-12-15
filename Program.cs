@@ -10,6 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            string nazev = "nazev";
             string Master = "Fock Off";
             Console.WriteLine("Hello World! " + Master);
             Console.ReadKey();
